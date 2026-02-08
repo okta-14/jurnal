@@ -47,6 +47,6 @@ if (isset($_POST['update'])) {
             <input type="text" name="keterangan" class="form-control" required>
         </div>
         <button type="submit" name="update" class="btn btn-success">Update</button>
-        <a href="index.php?page=absensi" class="btn btn-secondary"> kode 111</a>
+        <a href="index.php?page=absensi" class="btn btn-secondary"> kembali</a>
     </form>
 </div>
